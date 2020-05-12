@@ -12,11 +12,4 @@ Please modify the data pre-processing by yourself, for example if the duration o
 
 if it is helpful, please cite this paper:
 
-@misc{yudistira2020covid19,
-    title={COVID-19 growth prediction using multivariate long short term memory},
-    author={Novanto Yudistira},
-    year={2020},
-    eprint={2005.04809},
-    archivePrefix={arXiv},
-    primaryClass={cs.LG}
-}
+@misc{yudistira2020covid19,<br />title={COVID-19 growth prediction using multivariate long short term memory},  <br />author={Novanto Yudistira},  <br />year={2020},  <br />eprint={2005.04809},  <br />archivePrefix={arXiv},  <br />primaryClass={cs.LG}<br /> }  
